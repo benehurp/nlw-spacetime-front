@@ -1,5 +1,3 @@
-import React from 'react'
-
 import Image from 'next/image'
 import logoNLW from '../../assets/nlw-spacetime-logo.svg'
 

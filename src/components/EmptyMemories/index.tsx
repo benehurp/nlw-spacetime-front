@@ -1,5 +1,3 @@
-import React from 'react'
-
 export const EmptyMemories = () => {
   return (
     <div className="flex flex-1 items-center justify-center">
